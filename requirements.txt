@@ -1,0 +1,4 @@
+cvxopt==1.1.6
+mercurial==2.8.1
+vboxapi==1.0
+wsgiref==0.1.2
